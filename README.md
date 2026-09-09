@@ -1,16 +1,25 @@
-## Hi there 👋
+# Andrii Sukhov
 
-<!--
-**sukhov-andrii/sukhov-andrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics · Data Science · Machine Learning
 
-Here are some ideas to get you started:
+4th-year Applied Mathematics student at Inholland University of Applied Sciences,
+interested in Data Science, Machine Learning, Data Analytics and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/andrii-sukhov/) · [CV](./Andrii_Sukhov_CV.pdf)
+
+## Featured Projects
+
+### 📊 CPL Prediction
+Predicting next-day Cost Per Lead from historical advertising data.
+
+**Python · Machine Learning · Power BI**
+
+### 👁️ Computer Vision
+Computer vision and machine learning for automated agricultural applications.
+
+**Python · YOLO · OpenCV**
+
+## Skills
+
+Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow ·
+Power BI · Docker · Git · Linux
