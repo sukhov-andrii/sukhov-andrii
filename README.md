@@ -5,7 +5,7 @@ Applied Mathematics · Data Science · Machine Learning
 4th-year Applied Mathematics student at Inholland University of Applied Sciences,
 interested in Data Science, Machine Learning, Data Analytics and Computer Vision.
 
-[LinkedIn](https://www.linkedin.com/in/andrii-sukhov/) · [CV](./Andrii_Sukhov_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/andrii-sukhov/) · [CV](files/cv_andrii_sukhov_2026_v3.pdf)
 
 ## Featured Projects
 
