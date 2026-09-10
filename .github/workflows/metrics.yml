@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
-          gist_id: cf4dbca28b369b0a2397a879ad31d0c6
+          committer_gist: cf4dbca28b369b0a2397a879ad31d0c6
           filename: github-metrics.svg
 
           # --- template ---
